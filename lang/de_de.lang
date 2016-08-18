@@ -4,6 +4,7 @@ gloebals_navigation = glÖbals
 
 gloebals_title = glÖbals - Globale Variablen
 gloebals_fields_title = Globale Felder
+gloebals_no_plugins_installed = Keine Plugins installiert.
 
 gloebals_settings_for = Einstellungen für {0}
 gloebals_settings_for_in_clang = Einstellungen für {0} in {1}

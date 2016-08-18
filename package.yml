@@ -1,10 +1,18 @@
 package: gloebals
 version: '0.1-alpha'
-author: Friends Of REDAXO
-supportpage: https://github.com/FriendsOfREDAXO/goebals
+author: 'FriendsOfREDAXO'
+supportpage: https://github.com/FriendsOfREDAXO/gloebals
 
 page:
     title: translate:navigation
     perm: gloebals[]
+    pjax: false
+    icon: rex-icon rex-icon-template
+    subpages:
+        tra: lala
+
+
 requires:
-    redaxo: '>=5.0.0-beta2'
+    packages:
+        structure/content: '>=2.1.0'
+    redaxo: ^5.2.0
