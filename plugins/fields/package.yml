@@ -1,0 +1,13 @@
+package: gloebals/fields
+version: '0.1-alpha'
+author: 'Thomas Göllner'
+supportpage: https://github.com/FriendsOfREDAXO/bloecks
+
+grids: [columns]
+
+page:
+  title: 'translate:fields_title'
+  icon: rex-icon
+  perm: gloebals[fields]
+  pjax: false
+  block: gloebals

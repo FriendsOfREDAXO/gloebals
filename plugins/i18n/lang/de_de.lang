@@ -1,0 +1,3 @@
+gloebals_i18n_title = i18n
+gloebals_i18n_strings = I18N-Strings
+gloebals_i18n_strings_info = Strings wie in eine .lang-Datei angeben - also "my_translation_label = Hier die Übersetzung, auch mit {0} Platzhaltern"

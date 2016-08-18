@@ -1,0 +1,13 @@
+package: gloebals/i18n
+version: '0.1-alpha'
+author: 'Thomas Göllner'
+supportpage: https://github.com/FriendsOfREDAXO/bloecks
+
+grids: [columns]
+
+page:
+  title: 'translate:i18n_title'
+  icon: rex-icon
+  perm: gloebals[i18n]
+  pjax: false
+  block: gloebals

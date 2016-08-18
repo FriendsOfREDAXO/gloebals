@@ -1,0 +1,13 @@
+package: gloebals/localecsv
+version: '0.1-alpha'
+author: 'Thomas Göllner'
+supportpage: https://github.com/FriendsOfREDAXO/bloecks
+
+grids: [columns]
+
+page:
+  title: 'translate:localecsv_title'
+  icon: rex-icon
+  perm: gloebals[localecsv]
+  pjax: false
+  block: gloebals

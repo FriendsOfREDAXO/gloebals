@@ -1,0 +1,3 @@
+gloebals_localecsv_title = CSV-Locales
+gloebals_localecsv_strings = Strings
+gloebals_localecsv_strings_info = Zu übersetzenden String und die Übersetzung jeweils in Hochkommata setzen und druch Komma trennen: "This should be translated", "Das ist die Übersetzung". Platzhalter können wie in sprint_f verwendet werden: "This is a %1$s and a second %2$s.", "Das hier ist eine %1$s und eine zweite %2$s."

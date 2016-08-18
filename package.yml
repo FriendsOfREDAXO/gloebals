@@ -1,0 +1,10 @@
+package: gloebals
+version: '0.1-alpha'
+author: Friends Of REDAXO
+supportpage: https://github.com/FriendsOfREDAXO/goebals
+
+page:
+    title: translate:navigation
+    perm: gloebals[]
+requires:
+    redaxo: '>=5.0.0-beta2'
