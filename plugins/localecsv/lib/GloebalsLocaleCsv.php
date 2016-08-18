@@ -16,6 +16,10 @@ class GloebalsLocaleCsv extends Gloebals
         {
             return $trans;
         }
+        else if(preg_match('/[^a-z0-9_-]/', $key))
+        {
+            return $key;
+        }
         return $ep->getSubject();
     }
 
