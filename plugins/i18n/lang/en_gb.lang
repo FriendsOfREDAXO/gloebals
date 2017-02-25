@@ -1,0 +1,3 @@
+gloebals_i18n_title = i18n
+gloebals_i18n_strings = i18n strings
+gloebals_i18n_strings_info = Add strings as you would in a .lang file - "my_translation_label = my translation with {0} placeholders"
