@@ -1,0 +1,3 @@
+gloebals_localecsv_title = CSV locales
+gloebals_localecsv_strings = Strings
+gloebals_localecsv_strings_info = Please place double quotes around translation labels and translations and delimit using commas: "This should be translated", "This is the translation". Placeholders can be used as in sprint_f: "This is a %1$s and a second %2$s.", "Das hier ist eine %1$s und eine zweite %2$s."
