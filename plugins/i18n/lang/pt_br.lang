@@ -1,0 +1,3 @@
+gloebals_i18n_title = i18n
+gloebals_i18n_strings =  i18n strings
+gloebals_i18n_strings_info = Adicione strings como faria em um arquivo .lang - "my_translation_label = Aqui a tradução, também com {0} coringas"

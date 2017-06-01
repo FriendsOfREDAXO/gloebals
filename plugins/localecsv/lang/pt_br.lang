@@ -1,0 +1,3 @@
+gloebals_localecsv_title = CSV locales
+gloebals_localecsv_strings =  Strings
+gloebals_localecsv_strings_info = Coloque aspas duplas em torno de rótulos e traduções de tradução e delimite usando vírgulas: "Isto deve ser traduzido", "Esta é a tradução". Os coringas podem ser usados como em sprint_f:  "This is a %1$s and a second %2$s.", "Este é um %1$s e um segundo %2$s."
