@@ -1,0 +1,15 @@
+# addon:gloebals de_de
+
+gloebals_navigation = glÖbals
+
+gloebals_title = glÖbals - Variáveis globais
+gloebals_fields_title = Campos globais
+gloebals_no_plugins_installed = Nenhum PlugIn instalado.
+
+gloebals_settings_for = Cofigurações para {0}
+gloebals_settings_for_in_clang = Configurações para {0} e {1}
+gloebals_settings_not_saved = Configurações não puderam ser salvas.
+gloebals_settings_saved = Configurações foram salvas.
+
+gloebals_save = Salvar
+gloebals_reset = Resetar

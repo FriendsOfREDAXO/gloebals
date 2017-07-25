@@ -1,0 +1,3 @@
+gloebals_fields_title = Campos
+gloebals_fields_fields = Definições do campo
+gloebals_fields_fields_info = Aqui você pode inserir YML-snippets para determinada variáveis globais. Estes podem ser acessados através de rex_config::get('gloebals, $key, $default).
