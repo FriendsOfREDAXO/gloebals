@@ -1,0 +1,3 @@
+gloebals_i18n_title = i18n
+gloebals_i18n_strings = i18n strings
+gloebals_i18n_strings_info = Lägg till strängar så som du skulle i en .lang fil - "my_translation_label = min översättning med {0} platshållare"

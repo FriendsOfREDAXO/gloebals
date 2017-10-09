@@ -1,0 +1,3 @@
+gloebals_localecsv_title = CSV locales
+gloebals_localecsv_strings = Strings
+gloebals_localecsv_strings_info = Var god placera dubbla citat kring översättningsetiketter och översättningar och avgränsa med kommatecken: "Detta ska översättas", "Detta är översättningen". Platshållare kan användas som i sprint_f: "Detta är% 1 $ s och en andra% 2 $ s.", "Das hier ist eine% 1 $ s und eine zweite% 2 $ s."

@@ -1,0 +1,3 @@
+gloebals_fields_title = Fält
+gloebals_fields_fields = Fältdefintioner
+gloebals_fields_fields_info = Här kan du ange YML-utdrag för att definiera globala variabler. Dessa kan nås med rex_config :: get ('gloebals, $ key, $ default).
