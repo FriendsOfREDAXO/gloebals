@@ -1,0 +1,3 @@
+gloebals_localecsv_title = CSV-Locales
+gloebals_localecsv_strings = Cadenas
+gloebals_localecsv_strings_info = Para traducir la cadena y poner la traducción entre comillas simples y separarlas por comas: "Esto debe traducirse". Los comodines se pueden usar como en sprint_f: "Esto es un %1$s y un segundo %2$s.", "Esto es un %1$s y un segundo %2$s".
