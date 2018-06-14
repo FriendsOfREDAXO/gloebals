@@ -1,0 +1,3 @@
+gloebals_i18n_title = i18n
+gloebals_i18n_strings = Cadenas i18n
+gloebals_i18n_strings_info = Especifique las cadenas como en un archivo .lang, es decir, "my_translation_label = Aquí la traducción, también con {0} marcadores de posición"
